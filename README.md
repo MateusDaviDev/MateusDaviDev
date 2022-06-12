@@ -2,11 +2,6 @@
 
 - 📚 Análise e desenvolvimento de sistemas - Senac - RJ
 - 📚 Front end - Origamid
-<div align="left">
-  <a href="https://github.com/MateusDaviDev">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDaviDev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
  </div>
 <div style="display: inline_block"><br>
