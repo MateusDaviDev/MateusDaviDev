@@ -16,5 +16,16 @@
   <img align="center" alt="mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
-  ![Snake animation](https://github.com/MateusDaviDev/MateusDaviDev/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
+<img width="450em" alt="Status Github Mateus Davi Dev
+" src="https://github-readme-stats.vercel.app/api?username=MateusDaviDev
+&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDaviDev
+&layout=compact&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/MateusDaviDev
+/MateusDaviDev
+/blob/output/github-contribution-grid-snake.svg)
+
 
