@@ -1,7 +1,9 @@
 ### Olá!Eu sou o Mateus 👋
 
-- 📚 Análise e desenvolvimento de sistemas - Senac - RJ
+- 📚 Análise e desenvolvimento de sistemas - Faculdade de Tecnologia Impacta
 - 📚 Front end - Origamid
+- 📚 Front end - Rocketseat
+
 
 <div style="display: inline_block "><br>
   <img align="center" alt="mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
